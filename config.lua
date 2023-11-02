@@ -1,4 +1,5 @@
 --[[
+Written for LunarVim master-e4a5fe9
 lvim is the global options object
 
 Linters should be
